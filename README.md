@@ -26,3 +26,5 @@ host: youtu.be
 favicon: https://www.youtube.com/s/desktop/fc387bff/img/logos/favicon_32x32.png
 image: https://i.ytimg.com/vi/nTGYMl_t4SY/maxresdefault.jpg
 ```
+
+![[Pasted image 20250331232557.png]]
