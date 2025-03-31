@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 -->
 
 Test
+
+
+```cardlink
+url: https://youtu.be/nTGYMl_t4SY?si=XO20WiZXgX8Derwc
+title: "Updated Dungeon Master Kit | Best Dungeon Master Tools"
+description: "This is a walkthrough of my updated Dungeon Master kit! I've changed a few things since my video about minimalist DM kits a few years ago (spoiler: I'm still..."
+host: youtu.be
+favicon: https://www.youtube.com/s/desktop/fc387bff/img/logos/favicon_32x32.png
+image: https://i.ytimg.com/vi/nTGYMl_t4SY/maxresdefault.jpg
+```
