@@ -30,3 +30,5 @@ image: https://i.ytimg.com/vi/nTGYMl_t4SY/maxresdefault.jpg
 ![[Pasted image 20250331232557.png]]
 
 ![image](https://github.com/user-attachments/assets/d91c3b28-3830-4a49-aa40-a2494407d768)
+
+[Cheese](https://youtube.com/shorts/uPclQdFmU38?si=r5boobQCApP4xrX0)
